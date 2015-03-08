@@ -1,4 +1,4 @@
-# disturb
+# Disturb
 Distributed application based on docker containers. Implements basic distributed algorithms.
 ```
 > git clone https://github.com/vrann/disturb.git
