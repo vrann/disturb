@@ -1,6 +1,6 @@
 # disturb
 Distributed application based on docker containers. Implements basic distributed algorithms.
-
+```
 > git clone https://github.com/vrann/disturb.git
 > docker build -t "disturb" ./disturb
 > docker run -P -d disturb ping
@@ -15,4 +15,5 @@ Distributed application based on docker containers. Implements basic distributed
 //Zu hakarin #1
 > test
 ping
+```
 
